@@ -1,4 +1,4 @@
 
 # mynewproject
-this is my first reA
+this is my first repo
 Author -adesh disale
